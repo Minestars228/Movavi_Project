@@ -9,27 +9,33 @@
 Скриншоты:
 
 Вступление и выбор сложности и правильный ответ: 
-![{B05BCC6D-E4D0-423B-BB5B-5C2195190B5D}](https://github.com/user-attachments/assets/90e87706-a1a1-4250-9256-2a643134dd6a)
+![{3B0DC463-D91E-456B-8729-D2E4916F4FE5}](https://github.com/user-attachments/assets/811805ec-d2a8-4a3b-a355-62f01e02f23c)
+
         
 Неправильный ответ:
 
-![{C963DA14-FE3D-466B-8597-4ACFAE9AC239}](https://github.com/user-attachments/assets/e7bca616-f48c-46d0-840c-c09bdf967472)
+![{E2908727-F2CB-4E93-AB93-B7012FB4E2AE}](https://github.com/user-attachments/assets/3c510a37-d884-48e3-a88e-bc28ea6de957)
+
 
 Проверка на ошибки:
 
-![{EB362944-29E0-4C20-8504-303D40C9FF78}](https://github.com/user-attachments/assets/64fa6df0-3cf2-47ad-becc-56b02e5f098d)
+![{01E8E355-2307-4A22-81A8-012EB83671A3}](https://github.com/user-attachments/assets/de5e0afa-5ed6-4eb5-bda5-588489c161a1)
+
 
 Конец викторины, Благодарность за участие в викторине, выводится таблица очков, и спрашивается хочет ли игрок продолжить, когда игрок продолжает викторину то он может выбрать уровень сложности, но пройти повторно уровень сложности он не может, после выбора уровня сложности он продолжает решать её:
 
-![{273F3FCA-CE6A-4CA1-B24A-D4CDDCD11040}](https://github.com/user-attachments/assets/f1a7fc1e-84dd-4557-ac50-e04c385fd3e3)
+![{7A069579-5172-40E7-AE4F-BC7A9B92570D}](https://github.com/user-attachments/assets/1c404438-f6e1-4ae7-acec-71953a9960ea)
+
 
 Это если игрок не хочет продолжить викторину, выводится статистика за все викторины:
 
-![{53CA5770-72A2-4C97-BBA1-85A3965AB25C}](https://github.com/user-attachments/assets/59b6fa72-fa0a-4970-bb10-e9ade22ca3b7)
+![{E694549B-46C0-419C-87DC-68341C526338}](https://github.com/user-attachments/assets/b38a7ddc-1abe-42be-b38f-883d79780d96)
+
 
 Когда игрок проходит все викторины, выводится вся статистика и игра заканчивается:
 
-![{F389BFEE-06D7-45A9-B16F-AC57AA5D8AD5}](https://github.com/user-attachments/assets/255b9557-46dc-4407-8140-df9152cb9116)
+![{45D6976A-AD66-41C5-A20D-5A1E5B8B7A64}](https://github.com/user-attachments/assets/0110e8f4-c73b-4b1f-9ddf-08e67c3d3fd8)
+
 
 Работу выполнили:
     1. Сытьков Семён
