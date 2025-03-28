@@ -36,8 +36,7 @@
     2. Гаринцев Артём
 
 Это если ReadMe не открывается:
-
-    ![{67FF3E3E-6FD9-4A7D-A3FE-456EB9EBC439}](https://github.com/user-attachments/assets/39352fd2-090f-4cc5-841c-bc05517bf000)
+![{67FF3E3E-6FD9-4A7D-A3FE-456EB9EBC439}](https://github.com/user-attachments/assets/39352fd2-090f-4cc5-841c-bc05517bf000)
 
 
 
